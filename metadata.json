@@ -1,0 +1,8 @@
+{
+  "name": "Vox Catholica",
+  "description": "Assistente de voz para dúvidas sobre a doutrina católica, consultando o Catecismo, a Bíblia (Ave Maria) e documentos do Magistério.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
